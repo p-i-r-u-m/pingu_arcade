@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(pingu VERSION 0.1.0-alpha)
+project(pingu VERSION 0.1.0)
 
 # Set default build type to 'Release' if not specified
 if(NOT CMAKE_BUILD_TYPE)

@@ -1,0 +1,11 @@
+# Ignore all files named data_packy.txt in any directory
+data_packy.txt
+**/data_packy.txt
+
+# Ignore all contents in any build directories
+build/
+**/build/
+
+**/__pycache__
+
+**/.vscode
