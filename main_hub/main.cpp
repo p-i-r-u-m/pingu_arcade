@@ -1,5 +1,5 @@
 // include header
-#include "../lib/function.h"
+#include "./lib/function.h"
 
 // include libraries
 #include <iostream>

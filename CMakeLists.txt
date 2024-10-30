@@ -35,6 +35,4 @@ FetchContent_MakeAvailable(googletest)
 include(CTest)
 
 # add subdirectories
-add_subdirectory(src)
-add_subdirectory(lib)
-add_subdirectory(tests)
+add_subdirectory(main_hub)
